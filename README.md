@@ -22,6 +22,8 @@
 ---
 
 ## 🛠️ 技术栈
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-2.0.3-green?logo=flask)
-![sklearn](https://img.shields.io/badge/sklearn-0.24.2-orange?logo=scikit-learn)
+- ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+
+- ![Flask](https://img.shields.io/badge/Flask-2.0.3-green?logo=flask)
+
+- ![sklearn](https://img.shields.io/badge/sklearn-0.24.2-orange?logo=scikit-learn)
